@@ -1,0 +1,1 @@
+importScripts('https://r.8b.io/29036/sw-toolbox.js');toolbox.precache(['index.html'],['manifest.json']);self.addEventListener('install', function(event) {console.log('SW: Installing service worker');});
